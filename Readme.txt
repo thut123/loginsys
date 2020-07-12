@@ -26,6 +26,3 @@ Credential for user panel :
 Username: demouser@gmail.com 
 Password : Test@123
 
-For more details visit this url https://phpgurukul.com/user-registration-login-and-user-management-system-with-admin-panel/
-
-You can also drop a mail at phpgurukulofficial@gmail.com 
